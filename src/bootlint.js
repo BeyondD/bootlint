@@ -16,7 +16,7 @@ var LocationIndex = _location.LocationIndex;
 
 (function (exports) {
     'use strict';
-    var NUM_COLS = 12;
+    var NUM_COLS = 24;
     var COL_REGEX = /\bcol-(xs|sm|md|lg)-(\d{1,2})\b/;
     var COL_REGEX_G = /\bcol-(xs|sm|md|lg)-(\d{1,2})\b/g;
     var COL_CLASSES = [];
